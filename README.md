@@ -63,6 +63,7 @@ HS Graduate Class of 2013
 - Programming
   - Java
   - HTML / CSS
+  - Python
 - User Interface Design
   - Ideation & Storyboarding
   - Low Fidelity & High Fidelity Prototyping
