@@ -10,6 +10,10 @@
 
 [Design Portfolio](https://drive.google.com/drive/folders/1lykkW4gBhG0LItRgIwXb4PdRn3VZLyJE?usp=sharing)
 
+- [**“Blossom”**](https://drive.google.com/drive/folders/1JOVwCWCfylXhaV6oQOZKK3nep08Uq3dc?usp=sharing) - Academic Project  
+*Summer 2025*  
+Mobile application designed for university students that provides affordable and accessible alternatives to online digital therapy. Project made in Figma.
+
 - [**“CareerCompass”**](https://drive.google.com/drive/folders/1Cx5oipXZFor4juvQh58Pf9X37sy_AhzM?usp=sharing) - Academic Project  
 *Fall 2024*  
 Mobile application designed to network students with potential job recruiters at career fairs, or in other career-based social events. Project made in Figma
