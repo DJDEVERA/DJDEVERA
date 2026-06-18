@@ -10,6 +10,10 @@
 
 [Design Portfolio](https://drive.google.com/drive/folders/1lykkW4gBhG0LItRgIwXb4PdRn3VZLyJE?usp=sharing)
 
+- [**“ELVTR UI/UX Game Design Project”**] - Online Academic Project  
+*Summer 2026 (Ongoing)*  
+UX Design project aimed towards reimaging popular AAA gaming titles by redesigning certain menu screens and other UI elements. Project made using Figma and Adobe Photoshop. Project made in Figma.
+
 - [**“Blossom”**](https://drive.google.com/drive/folders/1JOVwCWCfylXhaV6oQOZKK3nep08Uq3dc?usp=sharing) - Academic Project  
 *Summer 2025*  
 Mobile application designed for university students that provides affordable and accessible alternatives to online digital therapy. Project made in Figma.
