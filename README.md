@@ -10,8 +10,8 @@
 
 [Design Portfolio](https://drive.google.com/drive/folders/1lykkW4gBhG0LItRgIwXb4PdRn3VZLyJE?usp=sharing)
 
-- [**“ELVTR UI/UX Game Design Project”**] - Online Academic Project  
-*Summer 2026 (Ongoing)*  
+- [**“ELVTR UI/UX Game Design Project”**](https://www.figma.com/design/as01t3crelZDm4T0FFwc7y/Overwatch-2-Project-Case-Study---ELVTR-Course?node-id=0-1&t=eplCht02Pp1tjYgj-1) - Online Academic Project  
+*Summer 2026*  
 UX Design project aimed towards reimaging popular AAA gaming titles by redesigning certain menu screens and other UI elements. Project made using Figma and Adobe Photoshop. Project made in Figma.
 
 - [**“Blossom”**](https://drive.google.com/drive/folders/1JOVwCWCfylXhaV6oQOZKK3nep08Uq3dc?usp=sharing) - Academic Project  
